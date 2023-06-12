@@ -3,6 +3,7 @@
 # ML-for-IoT-final
 
 This repository contains the code for the "ML-for-IoT-final" project.
+To see this project implemented in an MLOPs / end-to-end way please go to my merlsense repository
 
 ## Description
 
