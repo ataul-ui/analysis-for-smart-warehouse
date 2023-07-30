@@ -1,5 +1,8 @@
 
 
+
+I can use spark for the time-series part.
+
 # ML-for-IoT-final
 
 This is the first repository in the "Building a Smart Factory" series.
