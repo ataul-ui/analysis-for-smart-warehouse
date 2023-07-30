@@ -1,7 +1,7 @@
 
 
 
-I can use spark for the time-series part.
+I can use facebook prophet for the time-series part. And if possible I can include spark. We'll see. I might do the certification sometime else.
 
 # ML-for-IoT-final
 
