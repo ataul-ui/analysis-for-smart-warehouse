@@ -5,6 +5,9 @@ I can use facebook prophet for the time-series part. And if possible I can inclu
 
 Hmmm I think I can use this repo for my next project on ml stuff
 
+I can use github actions to deploy some of the code to azure cloud, I don't
+need to create a python script for it.
+
 
 Do drop using kalman filters, don't use facebook prophet, use spark to count which sensors can be dropped.
 
