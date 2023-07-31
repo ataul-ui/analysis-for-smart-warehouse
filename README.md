@@ -3,6 +3,8 @@
 
 I can use facebook prophet for the time-series part. And if possible I can include spark. We'll see. I might do the certification sometime else.
 
+Hmmm I think I can use this repo for my next project on ml stuff
+
 Do drop using kalman filters, don't use facebook prophet, use spark to count which sensors can be dropped.
 
 # ML-for-IoT-final
