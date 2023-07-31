@@ -11,6 +11,8 @@ need to create a python script for it.
 Use this video as reference, don't create a production repo, use cronjob for github actions and manually upload the data/model to a folder (or azure blob storage):
 https://www.youtube.com/watch?v=jVag3kUhUXQ&ab_channel=1littlecoder 
 
+Don't use dvc for this project, but reference in the blog that you used dvc in the alzhiemer's project.
+
 # ML-for-IoT-final
 
 This is the first repository in the "Building a Smart Factory" series.
