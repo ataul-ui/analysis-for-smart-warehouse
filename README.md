@@ -8,8 +8,8 @@ Hmmm I think I can use this repo for my next project on ml stuff
 I can use github actions to deploy some of the code to azure cloud, I don't
 need to create a python script for it.
 
-
-Do drop using kalman filters, don't use facebook prophet, use spark to count which sensors can be dropped.
+Use this video as reference, don't create a production repo, use cronjob for github actions and manually upload the data/model to a folder (or azure blob storage):
+https://www.youtube.com/watch?v=jVag3kUhUXQ&ab_channel=1littlecoder 
 
 # ML-for-IoT-final
 
