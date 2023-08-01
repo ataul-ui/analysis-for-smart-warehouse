@@ -6,6 +6,13 @@ from pyspark.sql import functions as F
 # to give a binary output on which sensors to remove
 # based on activation amount
 
+# mlflow will be used here, MLProject will be saved
+# to a folder called models (like the data folder)
+# this script will be triggered by a github actions workflow on cron job
+# so that as new data gets uploaded to data folder new models can be created
+# I will provide reference to dvc in blog post for this (point them to alzheimers project)
+
+
 
 
 
