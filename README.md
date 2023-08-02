@@ -1,9 +1,6 @@
 
 
-
-I can use facebook prophet for the time-series part. And if possible I can include spark. We'll see. I might do the certification sometime else.
-
-Hmmm I think I can use this repo for my next project on ml stuff
+Use sparkml to train the model, then use spark streaming to detect model drift. I'll look into this more soon.
 
 I can use github actions to deploy some of the code to azure cloud, I don't
 need to create a python script for it.
