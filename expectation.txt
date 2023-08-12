@@ -5,7 +5,8 @@ I'll use terraform to provition azure blob storage, dvc to create remote storage
 
 
 
-
+I think I'll basically follow this tutorial: https://medium.com/microsoftazure/the-seeing-raspberry-pi-3d66afc4a536 
+And use terraform to provision resources, and azure cognitive services to show I know what to do.
 
 
 
