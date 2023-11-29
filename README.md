@@ -1,3 +1,5 @@
+Use selenium to download the dataset instead of just doing pd_read()
+
 My plan in this project is to use github actions and terraform together
 
 In other word this will be a DataOps/GitOps project
