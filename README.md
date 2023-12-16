@@ -1,6 +1,8 @@
 
 I can do something with prometheus using the time series knowledge I learned here
 
+also do load tests on prometheus on aks project, read through this: https://medium.com/swlh/feed-prometheus-with-locust-performance-tests-as-a-metrics-source-d8d2bfec918c 
+
 
 This project has been suspended for the time being. I might work on it on another time
 
