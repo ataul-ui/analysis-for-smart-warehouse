@@ -1,4 +1,7 @@
 
+I can do something with prometheus using the time series knowledge I learned here
+
+
 This project has been suspended for the time being. I might work on it on another time
 
 My plan in this project is to use github actions and terraform together
