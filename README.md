@@ -5,6 +5,8 @@ And see what you can do with sentry.io for monitoring: https://sentry.io/welcome
 
 also do load tests on prometheus on aks project, read through this: https://medium.com/swlh/feed-prometheus-with-locust-performance-tests-as-a-metrics-source-d8d2bfec918c 
 
+https://docs.sentry.io/product/performance/ 
+
 
 This project has been suspended for the time being. I might work on it on another time
 
