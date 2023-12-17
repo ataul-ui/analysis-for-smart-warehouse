@@ -1,6 +1,8 @@
 
 I can do something with prometheus using the time series knowledge I learned here, and use grafana instead of manually writing promql queries
 
+And see what you can do with sentry.io for monitoring: https://sentry.io/welcome/ 
+
 also do load tests on prometheus on aks project, read through this: https://medium.com/swlh/feed-prometheus-with-locust-performance-tests-as-a-metrics-source-d8d2bfec918c 
 
 
