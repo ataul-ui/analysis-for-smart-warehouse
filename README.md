@@ -1,3 +1,6 @@
+ooooooh I can use nvidia omniverse for synthetic data generation for this project, and then all the ml stuff I learned will be used without changing any of the ml parts. No need for dataops and scripts then. https://medium.com/@nvidiaomniverse/from-virtual-to-reality-how-synthetic-data-will-train-smarter-robots-for-industrial-applications-0c4b744d4ae0 
+
+
 
 I can do something with prometheus using the time series knowledge I learned here, and use grafana instead of manually writing promql queries
 
