@@ -1,5 +1,11 @@
 ooooooh I can use nvidia omniverse for synthetic data generation for this project, and then all the ml stuff I learned will be used without changing any of the ml parts. No need for dataops and scripts then. https://medium.com/@nvidiaomniverse/from-virtual-to-reality-how-synthetic-data-will-train-smarter-robots-for-industrial-applications-0c4b744d4ae0 
 
+Use datomize to generate synthetic data on the spot for ml pipelines. In the datomize website: "
+Integrate with existing data pipelines
+Use our Python SDK to seamlessly integrate into existing analytical working environments and data or ML pipelines. "
+
+https://www.datomize.com/replicate/
+
 
 
 I can do something with prometheus using the time series knowledge I learned here, and use grafana instead of manually writing promql queries
