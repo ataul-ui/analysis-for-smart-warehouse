@@ -2,20 +2,6 @@ ooooooh I can use nvidia omniverse for synthetic data generation for this projec
 
 Use mostly.ai connectors as data destination upload and use dvc to log into it and use it on the jupyter notebook file
 
-
-I can do something with prometheus using the time series knowledge I learned here, and use grafana instead of manually writing promql queries
-
-And see what you can do with sentry.io for monitoring: https://sentry.io/welcome/ 
-
-also do load tests on prometheus on aks project, read through this: https://medium.com/swlh/feed-prometheus-with-locust-performance-tests-as-a-metrics-source-d8d2bfec918c 
-
-https://docs.sentry.io/product/performance/ 
-
-
-This project has been suspended for the time being. I might work on it on another time
-
-My plan in this project is to use github actions and terraform together
-
-In other word this will be a DataOps/GitOps project
+https://github.com/AdamMiltonBarker/omniverse-replicator-edge-impulse
 
 Readme will be writen when the project is finished, if you have any thoughts/suggestions on the current code in this repository please contact me at ataul.akbar@gmail.com
